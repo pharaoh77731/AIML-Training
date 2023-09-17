@@ -22,11 +22,7 @@ Using above libraries I've learnt some concepts which are also listed below:-
 7. Random Forests and Logistic Regression
 8. K Nearest Neighbour (KNN)
 9. Decision Trees
-10. Deep Learning concepts like Neural Neetworking:-
-    a. Artificial Neural Networks (ANN)
-    b. Convolutional Neural Networks (CNN)
-    
+10. Deep Learning concepts like Neural Neetworking {Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN)}
 11.Object Recognition Usng EFFICIENTNET provided by CNN
-
 
 That's all.
