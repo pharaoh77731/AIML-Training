@@ -25,6 +25,7 @@ Using above libraries I've learnt some concepts which are also listed below:-
 10. Deep Learning concepts like Neural Neetworking:-
     a. Artificial Neural Networks (ANN)
     b. Convolutional Neural Networks (CNN)
+    
 11.Object Recognition Usng EFFICIENTNET provided by CNN
 
 
